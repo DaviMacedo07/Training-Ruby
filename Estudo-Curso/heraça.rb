@@ -8,13 +8,4 @@ class Animal
   end
 end
 
-class Cachorro < Animal
-  def latir 
-    "AUAUAUAu"
-  end
-end
 
-dog = Cachorro.new
-dog.dormir
-dog.latir
-dog.pular
