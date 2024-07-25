@@ -23,3 +23,10 @@ orders = []
 end
 
 puts orders
+
+students = ['davi', "pedro", "joao"]
+
+students.each do |s|
+  puts s
+  
+end
